@@ -5,7 +5,7 @@ import { Outlet } from "react-router-dom";
 
 const Layout = () => {
   return (
-    <div className="max-w-[1450px] border border-black mx-auto">
+    <div className="max-w-[1490px] px-5 border border-black mx-auto">
       <Header />
       <Outlet />
       <Footer />
