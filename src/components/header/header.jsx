@@ -13,8 +13,8 @@ const Header = () => {
   };
 
   return (
-    <div className="h-[80px] py-[10px] flex justify-between items-center border border-black">
-      <ul>
+    <div className="h-[80px] py-[10px] px-[35px] flex justify-between items-center fixed top-0 left-0 w-full z-10 bg-white shadow-lg ">
+      <ul className="max-w-[1450px]">
         <li>
           <img className="w-[180px] h-[55px]" src={logo} alt="logo" />
         </li>
