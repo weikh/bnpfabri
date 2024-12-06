@@ -8,8 +8,8 @@ import support3 from "./support3.svg";
 import support4 from "./support4.svg";
 
 import Ubanner1 from './Ubanner1.png'
-import Ubanner2 from './Ubanner2.png'
-import Ubanner3 from './Ubanner3.png'
+import Ubanner2 from './Ubanner2.jpg'
+import Ubanner3 from './Ubanner3.jpg'
 
 import product1 from "./product1.jpg";
 import product2 from "./product2.jpg";
