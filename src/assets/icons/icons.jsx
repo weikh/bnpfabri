@@ -8,8 +8,8 @@ import support3 from "./support3.svg";
 import support4 from "./support4.svg";
 
 import Ubanner1 from './Ubanner1.png'
-import Ubanner2 from './Ubanner2.jpg'
-import Ubanner3 from './Ubanner3.jpg'
+import Ubanner2 from './Ubanner2.png'
+import Ubanner3 from './Ubanner3.png'
 
 import product1 from "./product1.jpg";
 import product2 from "./product2.jpg";
@@ -42,6 +42,10 @@ import product28 from "./product28.jpg";
 import product29 from "./product29.jpg";
 import product30 from "./product30.jpg";
 
+import news1 from './news1.png'
+import news2 from './news2.png'
+import news3 from './news3.png'
+
 export {
   logo,
   
@@ -51,6 +55,10 @@ export {
   support2,
   support3,
   support4,
+
+  Ubanner1,
+  Ubanner2,
+  Ubanner3,
 
   product1,
   product2,
@@ -82,4 +90,8 @@ export {
   product28,
   product29,
   product30,
+
+  news1,
+  news2,
+  news3,
 };
